@@ -1,0 +1,13 @@
+public class StudentInfo {
+
+	public static void main(String[] args) {
+
+		String firstName = "Adam";
+
+		String lastName = "Daniel";
+
+		int age = 35;
+
+		double salary = 5000.23;
+
+		char gender = 'M';
